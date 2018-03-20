@@ -1,0 +1,25 @@
+{
+	"field0" : 7,
+	"field1" : [ 1,2,3],
+	"field2" : 5,
+	"field3" : "value",
+	"field4" : {
+		"a" : 4,
+		"b" : "hello",
+		"c" : ["g","f"]
+	},
+	"field5" : false,
+	"field6" : 234.345,
+	"field7" : "2017-06-30",
+	"field8" : {
+		"a" : {
+			"e" : {
+				"p" : {
+					"w" : 2,
+					"q" : "sdsdsdsd",
+					"o" : "tralala"
+				}
+			}
+		}
+	}
+}

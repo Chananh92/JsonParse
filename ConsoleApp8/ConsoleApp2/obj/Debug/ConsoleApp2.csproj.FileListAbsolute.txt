@@ -1,0 +1,9 @@
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\atran\source\repos\ConsoleApp8\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
