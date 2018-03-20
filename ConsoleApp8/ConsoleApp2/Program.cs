@@ -78,12 +78,7 @@ namespace ConsoleApp2
                 idCounter++;
                 int tempIdCounter = idCounter;
 
-                var leaf = new RequestLeaf()
-                {
-                    ID = tempIdCounter,
-                    Name = dictValue.Key,
-                    Value = dictValue.Value
-                };
+                var leaf = CreateRequestElement(tempIdCounter, dictValue.Key, dictValue.Value);
 
                 requestElements.Add(leaf);
             }
@@ -113,6 +108,18 @@ namespace ConsoleApp2
                     Value = children[0]
                 };
             }
+
+            return requestElement;
+        }
+
+        private static RequestElement CreateRequestElement(int id, string name, object value)
+        {
+            RequestElement requestElement  = new RequestLeaf()
+            {
+                ID = id,
+                Name = name,
+                Value = value
+            };
 
             return requestElement;
         }
